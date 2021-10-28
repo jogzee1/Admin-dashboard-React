@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+    /*background-color: #bdc3c7;*/
+}
+.link{
+    text-decoration: none;
+    color: initial;
+}
